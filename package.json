@@ -5,12 +5,12 @@
   "main": "/src/app.js",
   "author": {
     "name": "Martin Jakal",
-    "email": "martin@telsmart.eu",
+    "email": "nocontact@gmail.com",
     "url": "https://telsmart.eu/"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/mjakal/react-boilerplate.git"
   },
   "license": "MIT",
   "scripts": {
